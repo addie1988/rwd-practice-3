@@ -412,7 +412,7 @@
 /* footer-bottom end */
 
 @media (max-width: 992px) {
-    .footer-bottom-content {padding: 3% 40px;}
+    .footer-bottom-content {padding: 1% 40px;}
 }
 
 @media (max-width: 480px) {

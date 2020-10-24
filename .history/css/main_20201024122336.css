@@ -59,8 +59,8 @@
 .navbar-light .navbar-brand span {color: #15AD72;}
 .navbar-expand-lg .navbar-collapse {justify-content: flex-end;}
 .mr-auto, .mx-auto {margin-right: 0 !important;}
-.dropdown-item {color: white;padding: 10px 20px;}
-.control {padding: 10px 33px;}
+.dropdown-item {color: white;padding: 20px 0.5rem;}
+.control {padding: 0 0 0 22px;}
 .dropdown-divider {border-top: 1px solid rgb(255 255 255 / 15%);}
 .two {left: 157px;min-width: 10rem;top: 46px;}
 .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {color: #15AD72;}
@@ -373,7 +373,7 @@
 .footer .row .col-4:nth-child(2) ul li:nth-child(3) a:hover {text-decoration: none;}
 .footer .row .col-4:nth-child(3) ul {padding: 0;}
 .footer .row .col-4:nth-child(3) ul li {list-style: none;padding: 16px 0;border-bottom: 1px solid;}
-.footer .row .col-4:nth-child(3) ul li:nth-child(1) {padding: 0 0 16px 0;display: flex;}
+.footer .row .col-4:nth-child(3) ul li:nth-child(1) {padding: 0 0 16px 0;}
 .footer .row .col-4:nth-child(3) ul li:nth-child(2) {display: flex;align-items: center;}
 .footer .row .col-4:nth-child(3) ul li:nth-child(3) {display: flex;align-items: center;border: none;}
 .footer .row .col-4:nth-child(3) ul li .fa {border: none;color: white;background: none;font-size: 16px;width: 36px;height: 36px;display: flex;justify-content: center;align-items: center;}
@@ -412,7 +412,7 @@
 /* footer-bottom end */
 
 @media (max-width: 992px) {
-    .footer-bottom-content {padding: 3% 40px;}
+    .footer-bottom-content {padding: 1% 40px;}
 }
 
 @media (max-width: 480px) {
