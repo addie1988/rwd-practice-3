@@ -1,6 +1,6 @@
-<<<<<<< HEAD
 # RWD-切版練習:
 https://addie1988.github.io/rwd-practice-3/
+<<<<<<< HEAD
 =======
 RWD-切版練習：
 https://addie1988.github.io/rwd-practice-2/.
@@ -10,3 +10,5 @@ https://addie1988.github.io/rwd-practice-2/.
 # rwd-practice-3
 # rwd-practice-3
 # rwd-practice-3
+=======
+>>>>>>> 31a3ad15e9235aa5f542b847b4aef4cab80ee64b
