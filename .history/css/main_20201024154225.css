@@ -74,7 +74,7 @@
 	.dropdown-menu {width: 100%;}
 	.dropdown-item .fa-dot-circle-o {display: block;padding-right: 9px;}
 	.navbar-nav .dropdown-menu a {display: flex;align-items: center;}
-	.navbar-nav .dropdown-menu a .fa-angle-down {padding-right: 9px;}
+	.navbar-nav .dropdown-menu a .fa-angle-down {padding-right: 10px;}
 	.control {padding: 20px 29px;}
 }
 
